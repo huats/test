@@ -3,7 +3,7 @@ CloudKitty
 ==========
 |doc-status|
 
-.. image:: https://raw.githubusercontent.com/openstack/cloudkitty/master/doc/images/cloudkitty-logo.png
+.. image:: doc/images/cloudkitty-logo.png
     :alt: cloudkitty
     :align: center
 
